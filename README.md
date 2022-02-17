@@ -6,7 +6,7 @@
 
 ![Tests](https://github.com/LuanMaik/nodejs-api-template/actions/workflows/node.js.yml/badge.svg)
 ___
-### Estructure folder tree:
+### Structure folder tree:
     .
     ├── src
     │   ├── di                  # Container dependency injection definition
